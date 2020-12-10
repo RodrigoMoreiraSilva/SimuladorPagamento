@@ -10,7 +10,7 @@ namespace SimuladorP360
 {
     public partial class Simulador : System.Web.UI.Page
     {
-        int idEmpresa;
+        int idEmpresa; 
         int idAluno;
         string idTurma;
         WsAluno.Cartao cartao = new WsAluno.Cartao();
